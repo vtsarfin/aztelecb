@@ -1,0 +1,4 @@
+configparser
+uvloop
+pyrogram
+argparse
